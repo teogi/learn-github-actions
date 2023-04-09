@@ -4,3 +4,4 @@ all:hello.c
 .PHONY: clean
 clean:
 	rm *.o
+	rm hello
